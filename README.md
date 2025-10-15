@@ -1,8 +1,3 @@
-Absolutely ✅ — here’s your **GitHub-ready `README.md` file**, already formatted in Markdown (with your actual Google Slides and Drive IDs filled in).
-
-You can directly copy-paste this entire block into your repo as `README.md` — GitHub will render it perfectly.
-
----
 
 ```markdown
 # 🎓 Bulk Certificate Sender using Google Apps Script
@@ -115,3 +110,4 @@ You can customize:
 ## 📄 License
 
 This project is open-source and free for educational and non-commercial use.
+
